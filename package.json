@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
   "name": "hospital",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+=======
+  "name": "hospital_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+>>>>>>> 9efe26cab0628ba86d783ea982901521c6005037
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
